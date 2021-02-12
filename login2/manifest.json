@@ -1,0 +1,33 @@
+{
+	"name"				: "Store Fan´s Levi Live",
+	"short_name"		: "Store",
+	"description"		: "Sistema de administracion y venta",
+	"background_color"	: "#000",
+	"theme_color"		: "#000",
+	"orientation"		: "portrait",
+	"display"			: "standalone",
+	"start_url"			: "./login2/",
+	"scope"				: "./",
+	"lang"				: "es-CL",
+	"icons"				:[{
+							"src"	: "../images/favicon.ico",
+							"sizes"	: "64x64",
+							"type"	: "image/png"
+						},
+						{
+						  "src": "../images/icono64.ico",
+						  "sizes": "64x64",
+						  "type": "image/png"
+						},
+						{
+						  "src": "../images/icono128.ico",
+						  "sizes": "128x128",
+						  "type": "image/png"
+						},
+						{
+						  "src": "../images/icono144.ico",
+						  "sizes": "144x144",
+						  "type": "image/png"
+						}
+					  ]
+}

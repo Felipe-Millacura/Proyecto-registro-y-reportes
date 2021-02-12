@@ -1,0 +1,21 @@
+body{
+  background: linear-gradient(135deg,#0D47A1,#154360);
+}
+
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  width: 20%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3em;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: white;
+  text-shadow: 0 1px 2px rgba(black,.15);
+}
